@@ -24,7 +24,7 @@
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
+  color: #2e2f42;
 }
 .link:hover {
   color: #404bbf;
@@ -50,7 +50,16 @@ body {
 .span-logo {
   color: #2e2f42;
 }
+/* address */
 
 .address {
   font-style: normal;
+}
+
+.link-adress {
+  text-decoration: none;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
