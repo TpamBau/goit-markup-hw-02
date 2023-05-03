@@ -4,6 +4,11 @@
 
 .list {
   list-style: none;
+  color: #434455;
+}
+
+.list:focus {
+  color: #404bbf;
 }
 
 .menu-item {
