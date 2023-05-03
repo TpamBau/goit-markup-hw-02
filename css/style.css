@@ -2,6 +2,11 @@
   --background-color: #ffffff;
 }
 
+ul,
+ol {
+  list-style: none;
+}
+
 body {
   font-family: 'Roboto', sans-serif;
   color: #434455;
