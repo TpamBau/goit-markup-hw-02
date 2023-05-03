@@ -10,5 +10,10 @@ ol {
 body {
   font-family: 'Roboto', sans-serif;
   color: #434455;
-  background-color: #ffffff;
+  background-color: var(--background-color);
+}
+
+/* header */
+.logo {
+  font-family: 'Raleway', sans-serif;
 }
