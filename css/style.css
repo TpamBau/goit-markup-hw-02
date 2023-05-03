@@ -63,3 +63,10 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
+
+.link-adress .link:hover {
+  color: #404bbf;
+}
+.link-adress .link:focus {
+  color: #404bbf;
+}
