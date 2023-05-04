@@ -104,8 +104,7 @@ body {
 }
 
 /* section 2 */
-.title-main {
-}
+
 .second-title {
   font-weight: 500;
   font-size: 20px;
@@ -116,4 +115,10 @@ body {
 .paragraf {
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+/* section 3 */
+.title-main {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
 }
