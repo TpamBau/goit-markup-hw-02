@@ -160,11 +160,9 @@ body {
   background-color: #404bbf;
 }
 .title-link {
-  text-align: center;
-  text-transform: capitalize;
-  color: #2e2f42;
-  letter-spacing: 0.02em;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
