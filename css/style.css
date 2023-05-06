@@ -59,6 +59,7 @@ body {
 .link-adress {
   text-decoration: none;
   font-weight: 500;
+  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
@@ -143,6 +144,12 @@ body {
   color: #f4f4fd;
 }
 
+.footert-p {
+  color: #f4f4fd;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+}
 /* portfolio */ /* portfolio */ /* portfolio */
 
 /* main */
