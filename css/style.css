@@ -63,9 +63,7 @@ body {
   color: #434455;
 }
 
-.link-adress:hover {
-  color: #404bbf;
-}
+.link-adress:hover,
 .link-adress:focus {
   color: #404bbf;
 }
@@ -95,9 +93,7 @@ body {
   color: #ffffff;
   cursor: pointer;
 }
-.button-service:hover {
-  background-color: #404bbf;
-}
+.button-service:hover,
 .button-service:focus {
   background-color: #404bbf;
 }
